@@ -1,6 +1,5 @@
 # test01
-testing MIT licence. 
 
-
+testing MIT license. 
 
 There is no code in this repo.
