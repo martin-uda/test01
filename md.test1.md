@@ -72,10 +72,10 @@ cvxc
 
 [[md.test - Copy]]  - PCh videt jako text, Git- jako text  
 
-[jiny file %20](./md.test%20-%20Copy2.md)  - PCh-  #Git- 404  
+[jiny file %20](./md.test%20-%20Copy2.md)  - PCh- ticho Git+  
 [jiny file ---](./md.test_-_Copy.md)  - PCh+ Git+  
 
-[jiny file %20](./md.test%20-%20Copy2.md)  - PCh-  #Git- 404  
+[jiny file %20](./md.test%20-%20Copy2.md)  - PCh-  Git+  
 [jiny file ./ _-_](./md.test_-_Copy.md)  - PCh+  Git+  
 [jiny file _-_](md.test_-_Copy.md)  - PCh+  Git+  
 
@@ -86,14 +86,14 @@ cvxc
 
 [jiny file a header](./md.test%20-%20Copy.md) - PCh-  Git- 404  
 
-[dalsi file](./md.test%)  PCh- ticho
+[dalsi file](./md.test%)  PCh- ticho  Git- 400  
 [[md.test - Copy | kopie]]  - PCh videt jako text
 
-[jiny %20-%20 level 3](md.test%20-%20Copy2.md#level 3)  PCh- ticho  
-[jiny %20-%20 level%203](md.test%20-%20Copy2.md#level%203)  PCh- ticho  
-[jiny %20-%20 level-3](md.test%20-%20Copy2.md#level-3)  PCh- ticho  
+[jiny %20-%20 level 3](md.test%20-%20Copy2.md#level 3)  PCh- ticho  Git- jako text  
+[jiny %20-%20 level%203](md.test%20-%20Copy2.md#level%203)  PCh- ticho  Git+ zac
+[jiny %20-%20 level-3](md.test%20-%20Copy2.md#level-3)  PCh- ticho  Git+ zac  
 
-[md.test - Copy](md.test%20-%20Copy.md)  
+[md.test - Copy](md.test%20-%20Copy.md)  Git- 404  
 
 [odkaz na level 3](#level-3)  - PCh+  Git+ L3  
 [std odkaz na level 3](md.test1.md#level-3)  - PCh-  Git+ L3
