@@ -70,14 +70,14 @@ foo foo <span class="mvoRowB">-- hneda </span> kun
 bla bla<span class="mvoRowG"> zelena </span>  
 cvxc
 
-[[md.test - Copy]]
+[[md.test - Copy]]  - PCh videt jako text, Git- jako text  
 
-[jiny file %20](./md.test%20-%20Copy.md)  - PCh-  
-[jiny file ---](./md.test_-_Copy.md)  - PCh+
+[jiny file %20](./md.test%20-%20Copy.md)  - PCh-  Git- 404  
+[jiny file ---](./md.test_-_Copy.md)  - PCh+ Git+  
 
-[jiny file %20](./md.test%20-%20Copy.md)  - PCh-  
-[jiny file ./ _-_](./md.test_-_Copy.md)  - PCh+  
-[jiny file _-_](md.test_-_Copy.md)  - PCh+  
+[jiny file %20](./md.test%20-%20Copy.md)  - PCh-  Git- 404  
+[jiny file ./ _-_](./md.test_-_Copy.md)  - PCh+  Git+  
+[jiny file _-_](md.test_-_Copy.md)  - PCh+  Git+  
 
 [md.test_-_Copy level3](md.test_-_Copy.md#level3)  - PCh- cannot find  
 [md.test_-_Copy level-3](./md.test_-_Copy.md#level-3)  - PCh- ticho  
