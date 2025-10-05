@@ -92,7 +92,8 @@ cvxc
 [jiny %20-%20 level%203](md.test%20-%20Copy2.md#level%203)  PCh- ticho  Git+ zac  
 [jiny %20-%20 level-3](md.test%20-%20Copy2.md#level-3)  PCh- ticho  Git+ zac  
 
-[odkaz na <#level 3>](<#level 3>)  - PCh- ticho  Git+ L3  , OBS- msg: nenajde "level-3"  
+[odkaz na <#Level 3>](<#Level 3>)  - PCh- ticho  Git-  , OBS- msg: nenajde "level-3"  
+[odkaz na <#level 3>](<#level 3>)  - PCh- ticho  Git-  , OBS- msg: nenajde "level-3"  
 [odkaz na <#level-3>](<#level-3>)  - PCh+ zac  Git+ L3  , OBS- msg: nenajde "level-3"  
 [odkaz na <#level%203>](<#level%203>)  - PCh- ticho  Git+ L3  , OBS- msg: nenajde "level-3"  
 [odkaz na level 3](#level-3)  - PCh+ zac Git+ L3  , OBS- msg: nenajde "level-3"  
