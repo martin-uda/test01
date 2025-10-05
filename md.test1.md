@@ -86,16 +86,16 @@ cvxc
 
 [jiny file a header](./md.test%20-%20Copy.md) - PCh-  Git- 404  
 
-[dalsi file](./md.test%)  PCh- ticho  Git- 400  
 [[md.test - Copy | kopie]]  - PCh videt jako text
 
 [jiny %20-%20 level 3](md.test%20-%20Copy2.md#level 3)  PCh- ticho  Git- jako text  
 [jiny %20-%20 level%203](md.test%20-%20Copy2.md#level%203)  PCh- ticho  Git+ zac  
 [jiny %20-%20 level-3](md.test%20-%20Copy2.md#level-3)  PCh- ticho  Git+ zac  
 
-[md.test - Copy](md.test%20-%20Copy.md)  Git- 404  
-
-[odkaz na level 3](#level-3)  - PCh+  Git+ L3  
-[std odkaz na level 3](md.test1.md#level-3)  - PCh-  Git+ L3
+[odkaz na <#level 3>](<#level 3>)  - PCh- ticho  Git+ L3  , OBS- msg: nenajde "level-3"  
+[odkaz na <#level-3>](<#level-3>)  - PCh+ zac  Git+ L3  , OBS- msg: nenajde "level-3"  
+[odkaz na <#level%203>](<#level%203>)  - PCh- ticho  Git+ L3  , OBS- msg: nenajde "level-3"  
+[odkaz na level 3](#level-3)  - PCh+ zac Git+ L3  , OBS- msg: nenajde "level-3"  
+[std odkaz na level 3](md.test1.md#level-3)  - PCh-  Git+ L3 , OBS+ msg: nenajde "level-3"  
 
 [[md.test1#level 3]]    - PCh videt jako text  Git jako text  
