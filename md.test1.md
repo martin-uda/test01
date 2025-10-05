@@ -91,11 +91,12 @@ cvxc
 
 [md.test - Copy](md.test%20-%20Copy.md#level 3)
 
-[odkaz na level 3](#level-3)  - PCh+  
-[[md.test1#level 3]]    - PCh videt jako text  
+[odkaz na level 3](#level-3)  - PCh+  Git+ L3  
+[std odkaz na level 3](md.test1.md#level-3)  - PCh-  Git+ L3
+
+[[md.test1#level 3]]    - PCh videt jako text  Git jako text
 [jiny file level 3](md.test%20-%20Copy.md#level%203)  
 [jiny file level-3](md.test%20-%20Copy.md#level-3)  
 
 
 [md.test - Copy](md.test%20-%20Copy.md)  
-[std odkaz na level 3](md.test1.md#level-3)  - PCh-  
